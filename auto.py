@@ -1,3 +1,5 @@
+#download webdriver.exe of respective browser and keep it in the same directory where this python file is.
+
 from selenium import webdriver
 
 #for chromium based browser
