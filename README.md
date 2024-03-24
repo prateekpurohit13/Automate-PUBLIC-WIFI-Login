@@ -50,7 +50,7 @@ options.add_argument("--acceptInsecureCerts") -> instructs the browser to accept
 
  We can do this for any type of website which requires authentication everytime. e.g facebook. 
 
- OPTIONAL:- If you want to directly run from your desktop without opening the code file then you can do that also.
+ If you want to directly run from your desktop without opening the code file then you can do that also.
 
  Run pip install pyinstaller
 
