@@ -1,5 +1,5 @@
-# Automate-VIT-WIFI-Login
-This is a tool made to ease your access to vit wifi.
+# Automate-PUBLIC-WIFI-Login
+This is a tool made to ease your access to public wifi.
 
 
 If you have got any improvement in this then it is highly appreciable.
