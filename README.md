@@ -95,7 +95,7 @@ automate-wifi-login/
 <div align="center">
 
 ![Authentication Page Inspection](https://github.com/prateekpurohit13/Automate-VIT-WIFI-Login/assets/145431826/0d3bd3e2-23f1-4eeb-ab76-b5f34487da82)
-*Locate your WiFi authentication page elements*
+
 
 </div>
 
@@ -107,7 +107,7 @@ automate-wifi-login/
 <div align="center">
 
 ![Element Inspection Demo](https://github.com/prateekpurohit13/Automate-VIT-WIFI-Login/assets/145431826/213b4463-e7d6-46eb-ab3b-ec535f7b641d)
-*Visual guide to element inspection*
+
 
 </div>
 
